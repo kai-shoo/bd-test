@@ -1,5 +1,3 @@
-import { Key } from './../../entities/Numpad/Numpad';
-
 export enum ActionKind {
     update = 'UPDATE',
     append = 'APPEND',
