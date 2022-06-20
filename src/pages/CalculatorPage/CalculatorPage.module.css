@@ -1,0 +1,7 @@
+.CalculatorPage {
+    background: linear-gradient(122.76deg, var(--background-color) 4.09%, var(--background-color) 91.04%), white;
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+}
